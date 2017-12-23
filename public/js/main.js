@@ -1,4 +1,4 @@
-var host = window.location.protocol + '//' + window.location.hostname + ':7591'
+var host = window.location.protocol + '//' + window.location.host
 var url = host + '/tweets'
 
 twttr.ready(function() {
