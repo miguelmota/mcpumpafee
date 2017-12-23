@@ -1,0 +1,19 @@
+{
+  "name": "mcpumpafee",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "kcors": "^2.2.1",
+    "koa": "^2.4.1",
+    "koa-path-match": "^2.0.0",
+    "twitter": "^1.7.1"
+  }
+}

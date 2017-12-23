@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-image: url(../assets/mcafee-resized.jpg);
+  background-size: auto 100%;
+  background-position: left top;
+  background-color: #000;
+  background-repeat: no-repeat;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: #fff;
+  font-size: 16px;
+  padding: 1em;
+}
+
+.MainHeader {
+  text-align: center;
+  padding: 1em;
+}
+
+.MainHeader h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 0.2em;
+}
+
+.moneygreen {
+  color: #3fe867;
+}
+
+.MainHeader div {
+  font-size: 1em;
+  font-style: italic;
+}
+
+.TweetsContainer {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.Loading {
+  text-align: center;
+  margin: 0 auto;
+  font-style: italic;
+  font-size: 0.7em;
+}
