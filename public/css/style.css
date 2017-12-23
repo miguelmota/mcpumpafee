@@ -8,6 +8,10 @@ body {
   height: 100%;
 }
 
+a {
+  color: #39cee0;
+}
+
 body {
   background-image: url(../assets/mcafee-resized.jpg);
   background-size: auto 100%;
@@ -50,4 +54,17 @@ body {
   margin: 0 auto;
   font-style: italic;
   font-size: 0.7em;
+}
+
+.SiteFooter {
+  font-size: 0.9em;
+  padding: 1em;
+}
+
+.SiteFooter a {
+  color: #ffffff40;
+}
+
+.SiteFooter a:hover {
+  color: #ffffff80;
 }

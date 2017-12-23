@@ -8,7 +8,16 @@
 
 ## Development
 
-Run API server
+Set up environment variables in `.env` file
+
+```
+TWITTER_CONSUMER_KEY=
+TWITTER_CONSUMER_SECRET=
+TWITTER_ACCESS_TOKEN_KEY=
+TWITTER_ACCESS_TOKEN_SECRET=
+```
+
+Run server
 
 ```bash
 npm start
