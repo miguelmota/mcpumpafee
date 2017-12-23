@@ -1,6 +1,6 @@
 # Mc$PumpAfee
 
-> Never miss a coin pump from John McAfee ever again!
+> Never miss a coin pump from [John McAfee](https://twitter.com/officialmcafee/status/935900326007328768) ever again!
 
 ## Demo
 
