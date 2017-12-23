@@ -57,8 +57,11 @@ body {
 }
 
 .SiteFooter {
+  display: block;
+  width: 100%;
   font-size: 0.9em;
   padding: 1em;
+  text-align: right;
 }
 
 .SiteFooter a {
