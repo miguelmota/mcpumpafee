@@ -2,7 +2,9 @@
 
 > Never miss a coin pump from [John McAfee](https://twitter.com/officialmcafee/status/935900326007328768) ever again!
 
-<img src="./public/assets/screenshot.png" width="700">
+<img src="./public/assets/screenshot1.png" width="700">
+
+Note: this is suppose to be a joke if you didn't get it already.
 
 ## Demo
 
